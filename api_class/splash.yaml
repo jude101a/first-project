@@ -1,0 +1,11 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#272727"
+  image: assets\logos\dinolingo-hello-1.gif
+
+android_12:
+  olor: "#FFFFFF"
+  color_dark: "#272727"
+  image: assets\logos\bloom.jpg
+
+web: false
